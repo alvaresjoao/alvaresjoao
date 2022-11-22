@@ -1,7 +1,7 @@
 =- 👋 oie, meu nome é @alvaresjoao
 - 👀 ´meu email para contato é joao.alvares.santos@escola.pr.gov.br
 - 🌱Eu tenho interesse a aprender programação de linguagem.
-- 
+-   Eu aprendi a aprogramar o javascript e o scrath no curso alura.
 
 <!---
 alvaresjoao/alvaresjoao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
